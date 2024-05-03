@@ -2,4 +2,3 @@
 This is my resume
 
 [text](<../../Devops Resume/Devops cv.pdf>)
-
